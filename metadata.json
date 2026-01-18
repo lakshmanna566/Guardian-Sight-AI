@@ -1,0 +1,7 @@
+{
+  "name": "Safety-First Industrial Auditor",
+  "description": "A real-time industrial safety dashboard powered by Gemini 3. Monitors video feeds for OSHA violations using reasoning capabilities and function calling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
